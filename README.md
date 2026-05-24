@@ -31,7 +31,7 @@ This version adds powerful location-based features:
 - **Language** - Java 
 - **Minimum SDK** - API 21 (Android 5.0) 
 - **Target SDK** - API 33 (Android 13) 
-- **Database** - SQLite|
+- **Database** - SQLite
 - **Maps & Location** - Google Play Services (Maps & Location) 
 - **Places API** - Google Places SDK for Android 
 - **Image Loading** - Glide 
