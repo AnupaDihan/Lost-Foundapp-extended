@@ -17,7 +17,7 @@ This version adds powerful location-based features:
 - **Location Picker** - Tap anywhere on map to select coordinates
 - **Distance Calculation** - Shows how far each item is from current location
 
-### ✅ Task 7.1P - Core Features
+### Task 7.1P - Core Features
 
 - **Create Adverts** - Post lost or found items with images
 - **Image Upload** - Attach photos to each advert 
@@ -26,7 +26,7 @@ This version adds powerful location-based features:
 - **Remove Adverts** - Delete items once resolved with confirmation 
 - **SQLite Database** - Persistent local storage 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language** - Java 
 - **Minimum SDK** - API 21 (Android 5.0) 
